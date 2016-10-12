@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Phoenix Blog </title>
+    <link>/tags/beginning/</link>
+    <language>en-us</language>
+    <author>Saif Hassan</author>
+    <rights>(C) 2016</rights>
+    <updated>2016-10-12 00:00:00 &#43;0000 UTC</updated>
+
+    
+      
+        <item>
+          <title>Second Post Using Hugo</title>
+          <link>/post/second-post-using-hugo/</link>
+          <pubDate>Wed, 12 Oct 2016 00:00:00 UTC</pubDate>
+          <author>Saif Hassan</author>
+          <guid>/post/second-post-using-hugo/</guid>
+          <description>&lt;p&gt;Hellom &lt;/p&gt;
+
+&lt;p&gt;This is my second post using hugo. This seems very well to write with. It&amp;rsquo;s easy and it can also be used offline. Great thing! &lt;/p&gt;
+</description>
+        </item>
+      
+    
+
+  </channel>
+</rss>

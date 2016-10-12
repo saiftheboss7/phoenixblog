@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Phoenix Blog </title>
+    <link>/tags/firing-up-hugo/</link>
+    <language>en-us</language>
+    <author>Saif Hassan</author>
+    <rights>(C) 2016</rights>
+    <updated>2016-10-12 00:00:00 &#43;0000 UTC</updated>
+
+    
+      
+        <item>
+          <title>This is my first post using Hugo</title>
+          <link>/post/this-is-my-first-post-using-hugo/</link>
+          <pubDate>Wed, 12 Oct 2016 00:00:00 UTC</pubDate>
+          <author>Saif Hassan</author>
+          <guid>/post/this-is-my-first-post-using-hugo/</guid>
+          <description>
+
+&lt;h1 id=&#34;this-is-my-first-post-using-hugo&#34;&gt;This is my first post using Hugo&lt;/h1&gt;
+
+&lt;p&gt;This is really cool to start writing using Hugo. It&amp;rsquo;s simple and effectective. &lt;/p&gt;
+</description>
+        </item>
+      
+    
+
+  </channel>
+</rss>
