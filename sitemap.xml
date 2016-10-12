@@ -12,6 +12,11 @@
   </url>
   
   <url>
+    <loc>/post/this-is-3rd-post-using-github/</loc>
+    <lastmod>2016-10-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/this-is-my-first-post-using-hugo/</loc>
     <lastmod>2016-10-12T00:00:00+00:00</lastmod>
   </url>

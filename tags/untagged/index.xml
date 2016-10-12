@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Phoenix Blog </title>
+    <link>/tags/untagged/</link>
+    <language>en-us</language>
+    <author>Saif Hassan</author>
+    <rights>(C) 2016</rights>
+    <updated>2016-10-12 00:00:00 &#43;0000 UTC</updated>
+
+    
+      
+        <item>
+          <title>This is 3rd post using github</title>
+          <link>/post/this-is-3rd-post-using-github/</link>
+          <pubDate>Wed, 12 Oct 2016 00:00:00 UTC</pubDate>
+          <author>Saif Hassan</author>
+          <guid>/post/this-is-3rd-post-using-github/</guid>
+          <description>
+
+&lt;h1 id=&#34;hello-everyone&#34;&gt;Hello Everyone!&lt;/h1&gt;
+
+&lt;p&gt;What&amp;rsquo;s up? It&amp;rsquo;s finally good to fire up hugo and write with it! This looks awesome!  I am really loving Hugo as a platform. &lt;/p&gt;
+</description>
+        </item>
+      
+    
+
+  </channel>
+</rss>
